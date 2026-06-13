@@ -552,7 +552,7 @@ fontWeight: 500,
 <div style={styles.ctaDesc}>
 RankProbe Pro gives you monthly monitoring, competitor analysis, and step-by-step fixes for every issue.
 </div>
-<button style={styles.ctaBtn}>Start Free Trial — $29/mo</button>
+<a href="https://buy.stripe.com/4gMcMXahK3UgboP3V25kk00" target="_blank" rel="noopener noreferrer" style={styles.ctaButton}>Start Free Trial - $29/mo</a>
 </div>
 </div>
 )}
