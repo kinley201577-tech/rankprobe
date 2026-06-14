@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 
 const COLORS = {
@@ -552,7 +551,7 @@ fontWeight: 500,
 <div style={styles.ctaDesc}>
 RankProbe Pro gives you monthly monitoring, competitor analysis, and step-by-step fixes for every issue.
 </div>
-<a href="https://buy.stripe.com/4gMcMXahK3UgboP3V25kk00" target="_blank" rel="noopener noreferrer" style={styles.ctaButton}>Start Free Trial - $29/mo</a>
+<button style={styles.ctaBtn} onClick={() => window.open('https://buy.stripe.com/4gMcMXahK3UgboP3V25kk00', '_blank')}>Start Free Trial — $29/mo</button>
 </div>
 </div>
 )}
